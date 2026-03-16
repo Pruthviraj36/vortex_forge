@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.3
+
+- Renamed package to `vortex_forge`.
+- Removed personal identifiers from package metadata and license.
+- Updated global executable aliases to `vortex_forge` and `vx`.
+
 ## 1.0.1
 
 - Publish readiness update: added package metadata and license.

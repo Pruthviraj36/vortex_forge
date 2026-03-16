@@ -1,9 +1,9 @@
 name: vortex_forge
 description: Flutter boilerplate generator for GetX + MVC without Mason/Get CLI.
 version: 1.0.3
-homepage: https://github.com/vortex-labs/vortex_forge
-repository: https://github.com/vortex-labs/vortex_forge
-issue_tracker: https://github.com/vortex-labs/vortex_forge/issues
+homepage: https://github.com/Pruthviraj36/vortex_forge
+repository: https://github.com/Pruthviraj36/vortex_forge
+issue_tracker: https://github.com/Pruthviraj36/vortex_forge/issues
 
 environment:
   sdk: ">=3.3.0 <4.0.0"

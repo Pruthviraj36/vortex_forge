@@ -31,7 +31,7 @@ flutter:
 
   static const projectReadme = '''# {{project_name}}
 
-Generated with flutter_forge (GetX + MVC).
+Generated with vortex_forge (GetX + MVC).
 
 ## Run
 
@@ -40,14 +40,14 @@ Generated with flutter_forge (GetX + MVC).
 
 ## Generate Feature
 
-flutter_forge make feature profile
+vortex_forge make feature profile
 
 ## Generate Artifacts
 
-flutter_forge make screen profile
-flutter_forge make service profile
-flutter_forge make repository profile
-flutter_forge make model profile
+vortex_forge make screen profile
+vortex_forge make service profile
+vortex_forge make repository profile
+vortex_forge make model profile
 ''';
 
   static const mainDart = '''import 'package:flutter/material.dart';

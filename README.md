@@ -1,4 +1,4 @@
-# chauh_flutter_forge
+# vortex_forge
 
 Dart-first Flutter boilerplate generator inspired by Nest-style DX, focused on GetX + MVC.
 
@@ -27,14 +27,14 @@ dart pub global activate --source path .
 Then use directly from anywhere:
 
 ```bash
-flutter_forge --help
-ff --help
+vortex_forge --help
+vx --help
 ```
 
 If published, activate by package name:
 
 ```bash
-dart pub global activate chauh_flutter_forge
+dart pub global activate vortex_forge
 ```
 
 ## Commands
@@ -50,18 +50,18 @@ dart run bin/flutter_forge.dart create my_app --org com.acme --output .
 Run inside generated project root.
 
 ```bash
-flutter_forge make feature profile
-flutter_forge generate module profile
-flutter_forge g module profile
+vortex_forge make feature profile
+vortex_forge generate module profile
+vortex_forge g module profile
 ```
 
 ### Generate standalone artifacts
 
 ```bash
-flutter_forge make screen profile
-flutter_forge make service profile
-flutter_forge make repository profile
-flutter_forge make model profile
+vortex_forge make screen profile
+vortex_forge make service profile
+vortex_forge make repository profile
+vortex_forge make model profile
 ```
 
 ### Optional config
